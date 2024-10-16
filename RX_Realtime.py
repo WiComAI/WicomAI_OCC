@@ -135,4 +135,4 @@ while camera.IsGrabbing():
 camera.StopGrabbing()
 camera.Close()
 cv2.destroyAllWindows()
-# Real time testing
+# Real time testing_2
